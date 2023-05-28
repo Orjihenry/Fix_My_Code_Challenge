@@ -4,7 +4,7 @@
 
 ### Tasks: 
 
-1. *[0-fizzbuzz.py](ttps://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/0-fizzbuzz.p)*. 
+1. *[0-fizzbuzz.py](https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/0-fizzbuzz.p)*. 
 
 2. *[1-print_square.js](https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/1-print_square.js)*.
 
